@@ -17,6 +17,8 @@ import com.dbtechprojects.photonotes.ui.ViewFactory
 
 class MainActivity : ComponentActivity() {
 
+
+
     private lateinit var taskView : TaskView
 
     override fun onCreate(savedInstanceState: Bundle?) {
