@@ -15,6 +15,8 @@ import com.dbtechprojects.photonotes.ui.MainPage
 import com.dbtechprojects.photonotes.ui.NewNote
 import com.dbtechprojects.photonotes.ui.ViewFactory
 
+
+
 class MainActivity : ComponentActivity() {
 
 
